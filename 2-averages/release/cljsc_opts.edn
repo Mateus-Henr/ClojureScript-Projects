@@ -1,0 +1,1 @@
+{:output-to "release/averages.js", :output-dir "release", :optimizations :advanced, :verbose true}
